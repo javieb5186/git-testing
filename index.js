@@ -23,5 +23,5 @@ fetch(request, {
     })
     .then(function(data) {
       console.log(data);
-      console.log("testing");
+      console.log("Test");
     });
